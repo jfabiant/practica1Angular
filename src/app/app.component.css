@@ -1,0 +1,9 @@
+body{
+    background-color: yellowgreen;
+}
+.button {
+    cursor: pointer;   
+}
+#btnModify {
+    margin-right: 2px;
+}
